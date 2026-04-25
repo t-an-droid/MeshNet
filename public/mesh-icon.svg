@@ -1,0 +1,17 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" rx="100" fill="#f5f4f0"/>
+  <path d="M256 120L150 180V332L256 392L362 332V180L256 120Z" stroke="#5a7fa8" stroke-width="20" stroke-linejoin="round"/>
+  <circle cx="256" cy="120" r="15" fill="#5a7fa8"/>
+  <circle cx="150" cy="180" r="15" fill="#5a7fa8"/>
+  <circle cx="150" cy="332" r="15" fill="#5a7fa8"/>
+  <circle cx="256" cy="392" r="15" fill="#5a7fa8"/>
+  <circle cx="362" cy="332" r="15" fill="#5a7fa8"/>
+  <circle cx="362" cy="180" r="15" fill="#5a7fa8"/>
+  <circle cx="256" cy="256" r="25" fill="#5a7fa8"/>
+  <line x1="256" y1="120" x2="256" y2="256" stroke="#5a7fa8" stroke-width="10"/>
+  <line x1="150" y1="180" x2="256" y2="256" stroke="#5a7fa8" stroke-width="10"/>
+  <line x1="150" y1="332" x2="256" y2="256" stroke="#5a7fa8" stroke-width="10"/>
+  <line x1="256" y1="392" x2="256" y2="256" stroke="#5a7fa8" stroke-width="10"/>
+  <line x1="362" y1="332" x2="256" y2="256" stroke="#5a7fa8" stroke-width="10"/>
+  <line x1="362" y1="180" x2="256" y2="256" stroke="#5a7fa8" stroke-width="10"/>
+</svg>

@@ -1,0 +1,15 @@
+{
+  "appId": "com.meshrelief.app",
+  "appName": "MeshRelief",
+  "webDir": "dist",
+  "plugins": {
+    "NearbyConnections": {
+      "endpointName": "MeshRelief Node",
+      "serviceID": "com.meshrelief.app",
+      "strategy": "cluster",
+      "connectionType": "balanced",
+      "lowPower": false,
+      "autoConnect": false
+    }
+  }
+}
