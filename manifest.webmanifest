@@ -1,0 +1,1 @@
+{"name":"MeshRelief: Offline Connect","short_name":"MeshRelief","description":"Offline-first mesh communication system","start_url":".","display":"standalone","background_color":"#f5f4f0","theme_color":"#f5f4f0","lang":"en","scope":"/","icons":[{"src":"mesh-icon.svg","sizes":"512x512","type":"image/svg+xml","purpose":"any maskable"}]}
