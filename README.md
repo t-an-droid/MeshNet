@@ -177,7 +177,7 @@ npm run deploy
 - **WebRTC not used** — WebRTC requires a signalling server, which breaks the offline-first constraint. QR relay is the browser-safe equivalent.
 - **Native P2P is Android-only** — Nearby Connections is a Google API unavailable on browsers or iOS.
 - **Append-only messages** — no update or replacement mechanism yet; duplicate IDs are silently dropped.
-- **Privacy is pseudonymous, not anonymous** — node ID and sender name are included in messages but are local, randomized, and resettable.
+- **Privacy is pseudonymous, not anonymous** — node ID is included in messages but are local, randomized, and resettable.
 
 ---
 
