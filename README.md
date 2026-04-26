@@ -158,7 +158,8 @@ The app requests at runtime:
 
 The web/PWA version is deployed on GitHub Pages:
 
-**[https://YOUR_USERNAME.github.io/mesh-app](https://YOUR_USERNAME.github.io/mesh-app)**
+**[https://t-an-droid.github.io/MeshNet](https://t-an-droid.github.io/MeshNet)**
+
 
 Once visited, the service worker caches the full app. It loads and runs completely offline on subsequent visits.
 
